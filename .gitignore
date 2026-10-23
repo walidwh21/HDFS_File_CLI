@@ -1,0 +1,17 @@
+# Build output
+target/
+dependency-reduced-pom.xml
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+.vscode/
+nbproject/private/
+
+# OS files
+.DS_Store

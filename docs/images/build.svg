@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="338" viewBox="0 0 820 338" role="img" aria-label="Terminal - build the JAR">
+<rect width="820" height="338" rx="10" fill="#0d1117"/>
+<rect width="820" height="34" rx="10" fill="#161b22"/><rect y="24" width="820" height="10" fill="#161b22"/>
+<circle cx="20" cy="17" r="6" fill="#ff5f56"/><circle cx="40" cy="17" r="6" fill="#ffbd2e"/><circle cx="60" cy="17" r="6" fill="#27c93f"/>
+<text x="410.0" y="22" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Terminal - build the JAR</text>
+<text x="22" y="64" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#7ee787">$ </tspan><tspan fill="#c9d1d9">mvn clean package</tspan></text>
+<text x="22" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#8b949e">[INFO] Scanning for projects...</tspan></text>
+<text x="22" y="108" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#8b949e">[INFO] --- maven-compiler-plugin:compile (default-compile) ---</tspan></text>
+<text x="22" y="130" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#8b949e">[INFO] Compiling 2 source files</tspan></text>
+<text x="22" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#8b949e">[INFO] --- maven-shade-plugin:3.2.4:shade (default) ---</tspan></text>
+<text x="22" y="174" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#8b949e">[INFO] Including org.apache.hadoop:hadoop-common:jar:3.3.6 in the shaded jar.</tspan></text>
+<text x="22" y="196" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#8b949e">[INFO] Replacing original artifact with shaded artifact.</tspan></text>
+<text x="22" y="218" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#8b949e">[INFO] ------------------------------------------------------------</tspan></text>
+<text x="22" y="240" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#8b949e">[INFO] </tspan><tspan fill="#3fb950">BUILD SUCCESS</tspan></text>
+<text x="22" y="262" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#8b949e">[INFO] ------------------------------------------------------------</tspan></text>
+<text x="22" y="284" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#7ee787">$ </tspan><tspan fill="#c9d1d9">ls -lh target/*.jar</tspan></text>
+<text x="22" y="306" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#c9d1d9">target/hdfs-java-api.jar</tspan></text>
+</svg>
