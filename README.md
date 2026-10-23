@@ -2,7 +2,7 @@
 
 command-line tool that shows how to work with **HDFS** (Hadoop Distributed File System) from Java using the Hadoop `FileSystem` API. It can create directories, write and read text files, list directories and delete paths on a running cluster
 
-![Java 8](https://img.shields.io/badge/Java-8-orange) ![Hadoop 3.3.6](https://img.shields.io/badge/Hadoop-3.3.6-yellow) ![Maven](https://img.shields.io/badge/build-Maven-blue) ![License MIT](https://img.shields.io/badge/license-MIT-green)
+![Java 8](https://img.shields.io/badge/Java-8-orange) ![Hadoop 3.3.6](https://img.shields.io/badge/Hadoop-3.3.6-yellow) ![Maven](https://img.shields.io/badge/build-Maven-blue)
 
 ## Overview
 
