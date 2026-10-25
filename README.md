@@ -76,8 +76,8 @@ classDiagram
 ### 1. Get the code
 
 ```bash
-git clone <repository-url>
-cd hdfs-java-api
+git clone https://github.com/walidwh21/HDFS_File_CLI
+cd https://github.com/walidwh21/HDFS_File_CLI
 ```
 
 ### 2. Build the JAR
